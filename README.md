@@ -1,2 +1,2 @@
-# Machine Learning Assisted Screening of Cyano-Enriched Additives to Mitigate Elevated Temperature Degradation of LiPF6-Carbonate Electrolyte
+#  Rule-based Computational Screening of Cyano-Enriched Additives to Mitigate Elevated Temperature Degradation of LiPF6-Carbonate Electrolyte
 The Battery Candidate Discovery Pipeline is a high-performance cheminformatics framework designed to accelerate the discovery of functional electrolyte additives. The pipeline automates the transition from raw SMILES strings to ranked, clustered, and visualized candidates, utilizing advanced molecular descriptors and unsupervised machine learning.
